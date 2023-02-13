@@ -1,3 +1,5 @@
 /venv
 .DS_store
 password_generator/password_generator/__pycache__/
+password_generator/generator/__pycache__/
+/password_generator/db.sqlite3
